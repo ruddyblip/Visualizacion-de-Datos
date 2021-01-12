@@ -1,5 +1,5 @@
 # Visualizacion-de-Datos
-Visualización de Datos con GGplot2
+_Visualización de Datos con GGplot2_
 
 El paquete ggplot2 es un paquete de R especializado en la construcción y diseño para la visualización de datos. En este sentido, las  funcionalidades van más allá de un uso puramente “científico” o exploratorio y se orienta a las diferentes dinámicas de divulgación de resultados de procesos de investigación.
 
